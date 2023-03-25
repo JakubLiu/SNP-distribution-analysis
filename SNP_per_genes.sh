@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-
+#QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # this script is for counting the number of SNPs (in a given category) that fall into a given gene
 
