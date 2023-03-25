@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-
+#QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 for file in /mnt/c/Users/Lenovo/Desktop/STUDIA/BIOINFORMATYKA/MASTER/CANONICAL/CHROMOSOME_22/INTRONS_python/*introns.txt
 
