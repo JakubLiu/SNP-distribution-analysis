@@ -1,3 +1,6 @@
+#QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # input_file_path   ===> path to the input .txt file (for example Python_input_genes_with_23_exons.txt)
 # output_file_path  ===> file to the output file (a pdf plot)
 # introns_or_exons  ===> 'introns' or 'exons'
