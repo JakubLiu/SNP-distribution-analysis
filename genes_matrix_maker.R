@@ -1,4 +1,4 @@
-
+# Dr.Magdalena Fraszczak, QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------
 genes_matrix_maker <- function(file_in, file_out){
     library(data.table)
     genes_matrix <- as.matrix(read.table(file_in), sep=" ")
