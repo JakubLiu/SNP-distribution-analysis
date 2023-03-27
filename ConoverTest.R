@@ -1,3 +1,5 @@
+# Dr Magdalena Fraszczak, QBA LIU 2023 -------------------------------------------------------------------------------------------------------------------------------
+
 ConoverSNP <- function(file_in, file_out){
   library(PMCMRplus)
   library(data.table)
